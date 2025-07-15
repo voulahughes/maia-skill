@@ -1,6 +1,6 @@
 {
   "name": "maia-skill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code skill: 5 AI agents analyze crypto, stocks, forex & commodities in parallel, adapt to your risk profile, and render an interactive bilingual (EN/ES) dashboard. Hybrid keyless market data. Educational market research, not financial advice.",
   "main": "src/index.ts",
   "scripts": {
